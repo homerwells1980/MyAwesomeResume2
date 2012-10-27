@@ -12,6 +12,8 @@ http://www.microsoft.com/en-us/download/details.aspx?id=17851
 
 If you want to build the solution, you'll need Visual Studio 2010. Just double click the sln file and press F5 to run the service.
 
+If you just want to use it, just download the MyAwesomeResume.zip file, unzip to any folder and run MyAwesomeResume.exe. 
+
 You can test it with any of the URLs supported. Here they are:
 
 http://localhost:12345/myawesomeresume/
